@@ -234,28 +234,32 @@ params:
           - "Docker"
           - "GitHub Actions"
           - "MySQL"
-          - "Software Engineering"
+          - "Python"
+          - "Vue.js"
         links:
           - icon: fab fa-github
             url: https://github.com/robert-viquez/financial-accounting-web-system
+        featured:
+          name: "View live demo"
+          link: https://faws.robertviquez.com/
 
       - title: "QuickTemplates"
         content: "Software project focused on reusable templates and workflow efficiency, maintained as a portfolio project with documentation and automated testing."
         image: "https://res.cloudinary.com/dqyllgamr/image/upload/v1789524216/templates-readme_qwc4xi.png"
         badges:
           - "Python"
-          - "Testing"
           - "Git"
+          - "C#"
         links:
           - icon: fab fa-github
-            url: https://github.com/robert-viquez
+            url: https://github.com/robert-viquez/quick.templates
 
       - title: "Personal Portfolio"
         content: "Personal technical portfolio built with Hugo and deployed through GitHub Pages to document projects, infrastructure work, and technical learning."
         image: "https://github.com/user-attachments/assets/6941110c-b084-4331-afba-b8d9e649b542"
-        featured:
-          name: "View site"
-          link: https://robertviquez.com/
+        # featured:
+        #   name: "View site"
+        #   link: https://robertviquez.com/
         badges:
           - "Hugo"
           - "GitHub Pages"
