@@ -241,7 +241,7 @@ params:
 
       - title: "QuickTemplates"
         content: "Software project focused on reusable templates and workflow efficiency, maintained as a portfolio project with documentation and automated testing."
-        image: "/images/quicktemplates.png"
+        image: "https://res.cloudinary.com/dqyllgamr/image/upload/v1789524216/templates-readme_qwc4xi.png"
         badges:
           - "Python"
           - "Testing"
